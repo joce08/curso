@@ -1,0 +1,2 @@
+# curso
+detalles del curso
